@@ -61,7 +61,7 @@ and interpersonal skills. I set goals and persistently go to them!
   
 ## Education:
  * Mogilev State A. Kuleshov University, Department of Physics and Mathematics, mathematician - system programmer
- * [CSS and HTML codeacademy](https://www.codecademy.com/profiles/ViktorK66)
+ * [Сodeacademy CSS and HTML](https://www.codecademy.com/profiles/ViktorK66)
 
 ## English:
 A2 (Pre-Intermediate)
